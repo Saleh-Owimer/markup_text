@@ -8589,10 +8589,6 @@ class MarkupParser {
       case "west_sharp": return Icons.west_sharp;
       case "west_rounded": return Icons.west_rounded;
       case "west_outlined": return Icons.west_outlined;
-      case "whatsapp": return Icons.whatsapp;
-      case "whatsapp_sharp": return Icons.whatsapp_sharp;
-      case "whatsapp_rounded": return Icons.whatsapp_rounded;
-      case "whatsapp_outlined": return Icons.whatsapp_outlined;
       case "whatshot": return Icons.whatshot;
       case "whatshot_sharp": return Icons.whatshot_sharp;
       case "whatshot_rounded": return Icons.whatshot_rounded;
